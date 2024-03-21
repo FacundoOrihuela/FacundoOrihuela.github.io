@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c7f4aef.css",
+    "main.js": "/static/js/main.bd8cb420.js",
+    "static/js/453.1ca8e6c7.chunk.js": "/static/js/453.1ca8e6c7.chunk.js",
+    "static/media/Recuerdo1.png": "/static/media/Recuerdo1.5740759230b3decb4e60.png",
+    "static/media/2.jpeg": "/static/media/2.69116bedbc9c0c6383ae.jpeg",
+    "static/media/8.jpeg": "/static/media/8.e72ee46af2aa9b1d3477.jpeg",
+    "static/media/5.jpeg": "/static/media/5.c9e4002b83331c43d189.jpeg",
+    "static/media/3.jpeg": "/static/media/3.0a7a2d15d064e314775f.jpeg",
+    "static/media/1.jpg": "/static/media/1.ce56098d5e52942a8daf.jpg",
+    "static/media/4.jpeg": "/static/media/4.963e445a33333068c5a7.jpeg",
+    "static/media/Recuerdo4.jpeg": "/static/media/Recuerdo4.e31b5b08277123ae6399.jpeg",
+    "index.html": "/index.html",
+    "main.7c7f4aef.css.map": "/static/css/main.7c7f4aef.css.map",
+    "main.bd8cb420.js.map": "/static/js/main.bd8cb420.js.map",
+    "453.1ca8e6c7.chunk.js.map": "/static/js/453.1ca8e6c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c7f4aef.css",
+    "static/js/main.bd8cb420.js"
+  ]
+}
